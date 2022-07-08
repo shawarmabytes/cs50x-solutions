@@ -15,7 +15,7 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 
 [July 9, 2022] [``cash.c``](https://cs50.harvard.edu/x/2022/psets/1/cash/)
 
-[pending] ``credt.c`` 
+[pending] ``credit.c`` 
 
 ## Week 2 Arrays  
 ## Week 3 Algorithms  
