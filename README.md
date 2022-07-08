@@ -3,6 +3,13 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 
 ## Week 0 Scratch  
 ## Week 1 C  
+
+``hello.c`` 
+``mario-less.c`` 
+``mario-more.c`` 
+``cash.c`` 
+
+
 ## Week 2 Arrays  
 ## Week 3 Algorithms  
 ## Week 4 Memory  
