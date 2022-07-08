@@ -13,7 +13,7 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 
 [July 8, 2022] [``mario-more.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
 
-[July 9, 2022] [``cash.c``](https://cs50.harvard.edu/x/2022/psets/1/cash/) Completed: July 9, 2022
+[July 9, 2022] [``cash.c``](https://cs50.harvard.edu/x/2022/psets/1/cash/)
 
 [pending] ``credt.c`` 
 
