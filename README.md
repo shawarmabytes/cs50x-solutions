@@ -2,6 +2,9 @@
 Personal code solutions for Harvard's CS50: Introduction to Computer Science problem sets
 
 ## Week 0 Scratch  
+
+``scratch.sb3`` pending
+
 ## Week 1 C  
 
 [``hello.c``](https://cs50.harvard.edu/x/2022/psets/1/hello/)
