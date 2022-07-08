@@ -6,11 +6,13 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 
 [``hello.c``](https://cs50.harvard.edu/x/2022/psets/1/hello/)
 
-``mario-less.c`` 
+[``mario-less.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)
 
-``mario-more.c`` 
+[``mario-more.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/more/) 
 
-``cash.c`` 
+[``cash.c``](https://cs50.harvard.edu/x/2022/psets/1/cash/) 
+
+``credt.c`` pending
 
 ## Week 2 Arrays  
 ## Week 3 Algorithms  
