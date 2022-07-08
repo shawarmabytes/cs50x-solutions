@@ -7,13 +7,13 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 
 ## Week 1 C  
 
-[``hello.c``](https://cs50.harvard.edu/x/2022/psets/1/hello/) Completed: July 7, 2022 
+[July 7, 2022 ][``hello.c``](https://cs50.harvard.edu/x/2022/psets/1/hello/)
 
-[``mario-less.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/less/) Completed: July 8, 2022
+[July 8, 2022][``mario-less.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/less/) 
 
-[``mario-more.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/more/) Completed: July 8, 2022
+[July 8, 2022][``mario-more.c``](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
 
-[``cash.c``](https://cs50.harvard.edu/x/2022/psets/1/cash/) Completed: July 9, 2022
+[July 9, 2022][``cash.c``](https://cs50.harvard.edu/x/2022/psets/1/cash/) Completed: July 9, 2022
 
 ``credt.c`` pending
 
