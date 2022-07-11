@@ -23,9 +23,9 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 
 [July 11, 2022 ] [``readability.c``](https://cs50.harvard.edu/x/2022/psets/2/readability/)
 
-[pending] [``caesar.c``]
+[pending] ``caesar.c``
 
-[pending] [``substitution.c``]
+[pending] ``substitution.c``
 
   ## Week 3 Algorithms  
 ## Week 4 Memory  
