@@ -18,7 +18,16 @@ Personal code solutions for Harvard's CS50: Introduction to Computer Science pro
 [pending] ``credit.c`` 
 
 ## Week 2 Arrays  
-## Week 3 Algorithms  
+
+[July 11, 2022 ] [``scrabble.c``](https://cs50.harvard.edu/x/2022/labs/2/)
+
+[July 11, 2022 ] [``readability.c``](https://cs50.harvard.edu/x/2022/psets/2/readability/)
+
+[pending] [``caesar.c``]
+
+[pending] [``substitution.c``]
+
+  ## Week 3 Algorithms  
 ## Week 4 Memory  
 ## Week 5 Data Structures  
 ## Week 6 Python  
